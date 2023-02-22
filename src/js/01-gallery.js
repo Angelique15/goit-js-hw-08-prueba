@@ -34,7 +34,7 @@ const lightbox = new SimpleLightbox('.gallery a', {
 });
 
 
-console.log('Image opened');
+console.log('lightbox');
 console.log(galleryItems);
 
 
